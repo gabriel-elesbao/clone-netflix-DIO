@@ -35,11 +35,6 @@ $ git clone https://github.com/gabriel-elesbao clone-netflix-DIO.git
 # Entrar no diretório 
 $ cd clone-netflix-DIO
 
-#instalar as dependências 
-$ yarn install
-
-#Iniciar o projeto
-$ varn start
 ````
 
 Desenvolvido 💻 por Gabriel Oliveira
